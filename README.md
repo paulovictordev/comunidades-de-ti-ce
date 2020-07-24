@@ -17,6 +17,7 @@ A ideia desta lista é reunir as comunidades de tecnologia do Ceará, tornando o
 ---- | :----: | :----: | :----: | ----
 [.Net Forteleza](https://t.me/dotnetfortaleza) | C#, .NET |  | [Telegram](https://t.me/dotnetfortaleza) | Fortaleza
 [Arretadas do PHP](https://t.me/arretadasdophp "Fomentar a participação de mulheres arretadas no mundo da tecnologia aqui no estado do ceará, especialmente PHP") | PHP | | [Telegram](https://t.me/arretadasdophp) | Fortaleza
+[AWS User Group Ceará](https://www.meetup.com/pt-BR/AWS-Users-Group-CE/ "Grupo voltado a discussões, palestras e networking sobre AWS.") | AWS | [Twitter](https://twitter.com/awsusergroupce) | [WhatsApp](https://chat.whatsapp.com/G1JyjJD8vUIJC2X1h6EFZO) | Fortaleza
 [Elug CE](https://elug-ce.github.io/ "Somos o grupo de usuários das linguagens de programação funcional Elixir e Erlang do Ceará.") | Elixir, Erlang | [Facebook](https://www.facebook.com/elugce), [Instagram](https://www.instagram.com/elug_ce/)  | [Telegram](https://t.me/elug_ce) | Fortaleza
 [Front-End CE](https://frontendce.com.br/ "Trazendo para Ceará conteúdos sobre Desenvolvimento Front-End e afins gerando networking entre os participantes.") | Front End | [Instagram](https://www.instagram.com/frontendce/) | [Telegram](https://t.me/frontendceara) | Fortaleza 
 [Front in Fortaleza](https://frontinfortaleza.com.br/ "O melhor evento sobre FRONT-END do Nordeste, com os melhores do Brasil.") | Front End | [Instagram](https://www.instagram.com/frontinfortaleza/), [Facebook](https://www.facebook.com/FrontInFortaleza/) | | Fortaleza
