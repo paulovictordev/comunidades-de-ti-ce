@@ -11,6 +11,7 @@ Grupo de Usuários de Ruby do Ceará.
 + :busts_in_silhouette: **Rede Social**:
     + [Twitter](https://twitter.com/guruce)
 + :speech_balloon: **Canal**:
+    + [Github](https://github.com/guru-ce)
     + [Meetup](https://www.meetup.com/pt-BR/Guru-CE/)
     + [Slack](https://guru-ce.slack.com/#/)
     + [Telegram](https://t.me/guru_ce)
