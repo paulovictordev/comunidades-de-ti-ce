@@ -26,6 +26,7 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [ReactJs Ceará](./Comunidades/reactjs-ceara.md) | ReactJs | Grupo para entusiastas desta incrível ferramenta. |
 | [PHP com Rapadura](./Comunidades/php-com-rapadura.md) | PHP | Grupo de desenvolvedores PHP do Ceará, formados através de uma ligação doce, como a rapadura e o café. |
 | [PyLadies](./Comunidades/py-ladies.md) | Python | Hey, lady! Você não está sozinha! |
+| [WordPress Fortaleza](./Comunidades/wordpress-fortaleza.md) | WordPress, PHP | Esse grupo foi criado para todos as pessoas interessadas no WordPress. |
                                                               
 
 #### Maneiras de colaborar :hammer:
