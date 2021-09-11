@@ -11,7 +11,6 @@ O melhor evento sobre FRONT-END do Nordeste, com os melhores do Brasil.
 + :busts_in_silhouette: **Rede Social**:
     + [Instagram](https://www.instagram.com/frontinfortaleza/)
     + [Facebook](https://www.facebook.com/FrontInFortaleza/)
-    + [Youtube](https://www.youtube.com/channel/COMUNIDADE)
 + :speech_balloon: **Canal**:
     + 
 + :house: **Localidade**:
