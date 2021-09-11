@@ -17,6 +17,8 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [Arretadas do PHP](./Comunidades/arretadas-do-php.md) | PHP | Nosso grupo é formado por ARRETADAS do Ceará, que visam trazer mais mulheres para o mundo da tecnologia. Especialmente, PHP. |
                                                               
 
-#### Como incluir uma comunidade 
+#### Maneiras de colaborar :hammer:
 
-_Por favor, veja como contribuir **[aqui](contribuindo.md)**._
+* Você pode incluir uma comunidade. Por favor, veja como **[aqui](contribuindo.md)**.
+* Você pode criar novas issues com ideias e sujestões de melhorias para projeto :wrench:
+* Você pode criar issue também para consertar alguma coisa ou até mesmo um PR com a correção :heart:
