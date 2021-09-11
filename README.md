@@ -24,6 +24,7 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [GURU-CE](./Comunidades/guru-ce.md) | Ruby | Grupo de Usuários de Ruby do Ceará. |
 | [Server-side JavaScript Ceará](./Comunidades/server-side-javascript-ceara.md) | NodeJs, Deno | Grupo cearense de pessoas desenvolvedoras que discutem sobre JavaScript do lado do servidor. |
 | [ReactJs Ceará](./Comunidades/reactjs-ceara.md) | ReactJs | Grupo para entusiastas desta incrível ferramenta. |
+| [PHP com Rapadura](./Comunidades/php-com-rapadura.md) | PHP | Grupo de desenvolvedores PHP do Ceará, formados através de uma ligação doce, como a rapadura e o café. |
                                                               
 
 #### Maneiras de colaborar :hammer:
