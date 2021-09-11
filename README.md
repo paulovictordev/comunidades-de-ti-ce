@@ -19,6 +19,7 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [AWS User Group Ceará](./Comunidades/aws-user-group-ceara.md) | AWS | Grupo voltado a discussões, palestras e networking sobre AWS. Discussões sobre todos os tópicos envolvendo AWS são bem vindas. |
 | [Elug CE](./Comunidades/elug-ce.md) | Elixir, Erlang | Somos o grupo de usuários das linguagens de programação funcional Elixir e Erlang do Ceará. |
 | [FrontEnd CE](./Comunidades/front-end-ce.md) | Front End | Nosso objetivo é de facilitar para todos o acesso a informação sobre tecnologia. Trazendo para Ceará conteúdos sobre Desenvolvimento Front-End e afins. |
+| [Front in Fortaleza](./Comunidades/front-in-fortaleza.md) | Front End | O melhor evento sobre FRONT-END do Nordeste, com os melhores do Brasil. |
                                                               
 
 #### Maneiras de colaborar :hammer:
