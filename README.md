@@ -13,8 +13,10 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 ## :scroll: Lista de Comunidades 
 
 | :link: Nome | :computer: Tecnologia | :page_facing_up: Descrição |
-| --- | :--: | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | :--: | -------------------------------------------------------------------------------------------------------- |
+| [.NET](./Comunidades/dot-net.md) | .NET, C# | Temos a finalidade de juntar profissionais TI que tenham interesse em aprender ou consolidar seus conhecimentos nas tecnologias da plataforma .NET. |
 | [Arretadas do PHP](./Comunidades/arretadas-do-php.md) | PHP | Nosso grupo é formado por ARRETADAS do Ceará, que visam trazer mais mulheres para o mundo da tecnologia. Especialmente, PHP. |
+| [AWS User Group Ceará](./Comunidades/aws-user-group-ceara.md) | AWS | Grupo voltado a discussões, palestras e networking sobre AWS. Discussões sobre todos os tópicos envolvendo AWS são bem vindas. |
                                                               
 
 #### Maneiras de colaborar :hammer:
