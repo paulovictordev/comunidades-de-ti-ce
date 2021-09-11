@@ -17,7 +17,8 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [.NET](./Comunidades/dot-net.md) | .NET, C# | Temos a finalidade de juntar profissionais TI que tenham interesse em aprender ou consolidar seus conhecimentos nas tecnologias da plataforma .NET. |
 | [Arretadas do PHP](./Comunidades/arretadas-do-php.md) | PHP | Nosso grupo é formado por ARRETADAS do Ceará, que visam trazer mais mulheres para o mundo da tecnologia. Especialmente, PHP. |
 | [AWS User Group Ceará](./Comunidades/aws-user-group-ceara.md) | AWS | Grupo voltado a discussões, palestras e networking sobre AWS. Discussões sobre todos os tópicos envolvendo AWS são bem vindas. |
-| [Elug CE](./Comunidades/aws-user-group-ceara.md) | Elixir, Erlang | Somos o grupo de usuários das linguagens de programação funcional Elixir e Erlang do Ceará. |
+| [Elug CE](./Comunidades/elug-ce.md) | Elixir, Erlang | Somos o grupo de usuários das linguagens de programação funcional Elixir e Erlang do Ceará. |
+| [FrontEnd CE](./Comunidades/front-end-ce.md) | Front End | Nosso objetivo é de facilitar para todos o acesso a informação sobre tecnologia. Trazendo para Ceará conteúdos sobre Desenvolvimento Front-End e afins. |
                                                               
 
 #### Maneiras de colaborar :hammer:
