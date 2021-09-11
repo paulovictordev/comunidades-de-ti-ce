@@ -16,8 +16,7 @@
 # Adicionar uma comunidade :pushpin:
 
 * A lista está ordenada pelo nome em ordem alfabética.
-* Ao adicionar uma nova comunidade utilize o seguinte formato:
-> `[nomeComunidade](#link "Texto com descrição") | Tecnologias | [nomeRede](#link) | [nomeCanal](#link)  | LocalComunidade`
+* Ao adicionar uma nova comunidade utilize esse **_[template](./template.md)_** como base.
 
 # Maneiras de colaborar :hammer:
 
