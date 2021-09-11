@@ -1,18 +1,20 @@
-# Server-side JavaScript Ceará
+# ReactJs Ceará
 
-Grupo cearense de pessoas desenvolvedoras que discutem sobre JavaScript do lado do servidor.
+Grupo para entusiastas desta incrível ferramenta.
 
 
 #### Conheça a comunidade                
 + :globe_with_meridians: **Site**:
-    + [Server-side JavaScript Ceará](https://linktr.ee/ssjs_ceara)
+    + [ReactJs Ceará](https://linktr.ee/react.js.ceara)
 + :computer: Tecnologia:
-    + NodeJs, Deno
+    + ReactJs
 + :busts_in_silhouette: **Rede Social**:
-    + 
+    + [Instagram](https://www.instagram.com/reactjsceara/)
+    + [Twitter](https://twitter.com/reactjs_ceara)
 + :speech_balloon: **Canal**:
-    + [Github](https://github.com/ssjsce)
-    + [Telegram](https://t.me/joinchat/Jss8QEzuGOlRtLSdbF1Ecg)
+    + [Discord](https://discord.gg/)
+    + [Github](https://github.com/reactjs-ceara)
+    + [Telegram](https://t.me/joinchat/Jss8QFjNps8s3YDsMp-V9w)
 + :house: **Localidade**:
     + Fortaleza
     
