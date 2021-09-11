@@ -22,6 +22,8 @@ A ideia desde repositorio é listar de forma ornanizada as comunidades de tecnol
 | [Front in Fortaleza](./Comunidades/front-in-fortaleza.md) | Front End | O melhor evento sobre FRONT-END do Nordeste, com os melhores do Brasil. |
 | [GDG Fortaleza](./Comunidades/gdg-fortaleza.md) | Google | GDG Fortaleza é um grupo de desenvolvedores entusiastas dos produtos Google. |
 | [GURU-CE](./Comunidades/guru-ce.md) | Ruby | Grupo de Usuários de Ruby do Ceará. |
+| [GURU-CE](./Comunidades/guru-ce.md) | Ruby | Grupo de Usuários de Ruby do Ceará. |
+| [Server-side JavaScript Ceará](./Comunidades/server-side-javascript-ceara.md) | NodeJs, Deno | Grupo cearense de pessoas desenvolvedoras que discutem sobre JavaScript do lado do servidor. |
                                                               
 
 #### Maneiras de colaborar :hammer:
